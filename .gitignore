@@ -1,0 +1,14 @@
+terraform.tfstate*
+.terraform*
+# stores the rathole binary here
+bin
+
+# this will be generated
+config
+
+# created and deleted by tofu
+rathole-domain.txt
+
+
+.envrc
+

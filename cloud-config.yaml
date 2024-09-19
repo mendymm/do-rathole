@@ -1,0 +1,6 @@
+#cloud-config
+packages:
+  - unzip
+  - bmon
+  - htop
+  - btop
